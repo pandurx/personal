@@ -1,4 +1,4 @@
-# personal_site
+# personal site that will be hosted on Heroku
 
 ## Project setup
 ```
